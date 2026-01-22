@@ -13,5 +13,5 @@ The website will consist of a main index page which will have links to a few rec
 
 ## Setup/Installation Requirements
 
-Check out the [Live Demo](https://ane-marie.github.io/odin_landing-page)  
+Check out the [Live Demo](https://ane-marie.github.io/odin-recipes/)  
 You need a browser to view this file
